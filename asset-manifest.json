@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/test-project/static/css/main.fb203b38.chunk.css",
+    "main.js": "/test-project/static/js/main.8e0597cc.chunk.js",
+    "main.js.map": "/test-project/static/js/main.8e0597cc.chunk.js.map",
+    "runtime-main.js": "/test-project/static/js/runtime-main.ca867fdb.js",
+    "runtime-main.js.map": "/test-project/static/js/runtime-main.ca867fdb.js.map",
+    "static/js/2.05a8a174.chunk.js": "/test-project/static/js/2.05a8a174.chunk.js",
+    "static/js/2.05a8a174.chunk.js.map": "/test-project/static/js/2.05a8a174.chunk.js.map",
+    "index.html": "/test-project/index.html",
+    "static/css/main.fb203b38.chunk.css.map": "/test-project/static/css/main.fb203b38.chunk.css.map",
+    "static/js/2.05a8a174.chunk.js.LICENSE.txt": "/test-project/static/js/2.05a8a174.chunk.js.LICENSE.txt",
+    "static/media/cream.e05354f2.jpg": "/test-project/static/media/cream.e05354f2.jpg",
+    "static/media/deodorant.c932a038.jpg": "/test-project/static/media/deodorant.c932a038.jpg",
+    "static/media/earRing.ed60389a.jpg": "/test-project/static/media/earRing.ed60389a.jpg",
+    "static/media/necklace.b030f682.jpg": "/test-project/static/media/necklace.b030f682.jpg",
+    "static/media/ring.91049f00.jpg": "/test-project/static/media/ring.91049f00.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca867fdb.js",
+    "static/js/2.05a8a174.chunk.js",
+    "static/css/main.fb203b38.chunk.css",
+    "static/js/main.8e0597cc.chunk.js"
+  ]
+}
